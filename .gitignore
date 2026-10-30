@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (add only if redistribution is permitted)
+AirPassengers.csv
+
+# Generated outputs and model files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.h5
+*.keras
+*.pkl
+*.pickle
+*.joblib
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
